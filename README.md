@@ -24,13 +24,13 @@ The objective of this project is to help users discover movies according to thei
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/home-page.png)
 
-### Discover Movies
-"D:\React\cine-mood\screenshots\discover movies page.png"
+### Discover Movies Page
+![Discover Movies](screenshots/discover-movies-page.png)
 
 ### Movie Trailer Component
-![Movie Trailer](screenshots/movie-trailer.png)
+![Movie Trailer](screenshots/movie-trailer-component.png)
 
-### Trending Movies
-![Trending Movies](screenshots/trending-movies.png)
+### Trending Movies Page
+![Trending Movies](screenshots/trending-movies-page.png)
