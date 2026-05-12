@@ -23,8 +23,14 @@ The objective of this project is to help users discover movies according to thei
 
 ## Screenshots
 
-Add your project screenshots inside a folder named screenshots and update the image paths below.
+### Home Page
+![Home Page](screenshots/homepage.png)
 
-```text id="fpjlwm"
-screenshots/homepage.png
-screenshots/recommendation-page.png
+### Discover Movies
+![Discover Movies](screenshots/discover-movies.png)
+
+### Movie Trailer Component
+![Movie Trailer](screenshots/movie-trailer.png)
+
+### Trending Movies
+![Trending Movies](screenshots/trending-movies.png)
