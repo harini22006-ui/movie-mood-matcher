@@ -27,7 +27,7 @@ The objective of this project is to help users discover movies according to thei
 ![Home Page](screenshots/homepage.png)
 
 ### Discover Movies
-![Discover Movies](screenshots/discover-movies.png)
+"D:\React\cine-mood\screenshots\discover movies page.png"
 
 ### Movie Trailer Component
 ![Movie Trailer](screenshots/movie-trailer.png)
